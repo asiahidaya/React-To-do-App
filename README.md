@@ -1,8 +1,4 @@
 # React-To-do-App
-A modern Todo App created using React and Vite. Features include task management, completion toggling, dynamic progress calculation, conditional rendering, and responsive UI. Built to practice React hooks, state management, and array operations.
-Then use this cleaner README instead 👇
-
-# React Todo App
 
 A simple Todo App built using **React.js** and **Vite** to practice React fundamentals such as state management, event handling, conditional rendering, and array manipulation.
 
@@ -35,12 +31,12 @@ A simple Todo App built using **React.js** and **Vite** to practice React fundam
 
 ### Home Page
 
-![Home]<img width="1366" height="615" alt="image" src="https://github.com/user-attachments/assets/0d4d6298-98a3-4ac6-8c19-369a0f165081" />
+![Home]<img width="1374" height="605" alt="Screenshot 2026-05-23 182221" src="https://github.com/user-attachments/assets/e410913c-87ff-4e0a-9963-6e5e8859aa8a" />
 
 
 ### Completed Tasks
 
-![Completed]<img width="1374" height="605" alt="Screenshot 2026-05-23 182221" src="https://github.com/user-attachments/assets/e410913c-87ff-4e0a-9963-6e5e8859aa8a" />
+![Completed]<img width="1366" height="615" alt="image" src="https://github.com/user-attachments/assets/0d4d6298-98a3-4ac6-8c19-369a0f165081" />
 
 ## Future Improvements
 
